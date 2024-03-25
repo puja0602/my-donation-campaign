@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "category": "food",
+    "title": "Emergency Food Supplies",
+    "description": "Seeking assistance for emergency food supplies for my family of four. Recently lost job due to pandemic.",
+    "bg_color": "#FF5733",
+    "money": 100,
+    "text_bg": "#6A5ACD"
+  },
+  {
+    "id": 2,
+    "category": "health",
+    "title": "Medical Expenses Support",
+    "description": "In need of financial assistance to cover medical bills for ongoing treatment of chronic illness.",
+    "bg_color": "#6A5ACD",
+    "money": 300,
+    "text_bg": "#FF5733"
+  },
+  {
+    "id": 3,
+    "category": "education",
+    "title": "Tuition Fees for College",
+    "description": "Struggling to pay tuition fees for college education. Seeking help to continue studies.",
+    "bg_color": "#4682B4",
+    "money": 500,
+    "text_bg": "#F08080"
+  },
+  {
+     "id": 4,
+     "category": "clothing",
+     "title": "Winter Clothing for Kids",
+     "description": "Looking for warm winter clothing for two young children. Financial situation is tight.",
+     "bg_color": "#F08080",
+     "money": 150,
+     "text_bg": "#4682B4"
+  },
+  {
+    "id": 5,
+    "category": "food",
+    "title": "Grocery Vouchers",
+    "description": "Need grocery vouchers to sustain my family until I find stable employment.",
+    "bg_color": "#FF5733",
+    "money": 75,
+    "text_bg": "#6A5ACD"
+  },
+  {
+    "id": 6,
+    "category": "health",
+    "title": "Medication Assistance",
+    "description": "Require financial support to purchase essential medication for managing chronic condition.",
+    "bg_color": "#6A5ACD",
+    "money": 200,
+    "text_bg": "#FF5733"
+  },
+  {
+    "id": 7,
+    "category": "education",
+    "title": "Textbooks for High School",
+    "description": "Struggling to afford textbooks for high school classes. Seeking assistance to purchase.",
+    "bg_color": "#4682B4",
+    "money": 100,
+    "text_bg": "#F08080"
+  },
+  {
+    "id": 8,
+    "category": "clothing",
+    "title": "Work Attire for Job Interviews",
+    "description": "Need appropriate clothing for upcoming job interviews. Unable to afford new attire.",
+    "bg_color": "#F08080",
+    "money": 120,
+    "text_bg": "#4682B4"
+  },
+  {
+    "id": 9,
+    "category": "food",
+    "title": "Hot Meal Program",
+    "description": "Seeking assistance to participate in a hot meal program for the homeless in my community.",
+    "bg_color": "#FF5733",
+    "money": 50,
+    "text_bg": "#6A5ACD"
+  },
+  {
+    "id": 10,
+    "category": "health",
+    "title": "Dental Care Support",
+    "description": "In need of financial aid to cover dental treatment costs for severe toothache.",
+    "bg_color": "#6A5ACD",
+    "money": 250,
+    "text_bg": "#FF5733"
+  },
+  {
+    "id": 11,
+    "category": "education",
+    "title": "Laptop for Online Classes",
+    "description": "Require a laptop to attend online classes due to school closures. Financially unable to purchase.",
+    "bg_color": "#4682B4",
+    "money": 600,
+    "text_bg": "#F08080"
+  },
+  {
+    "id": 12,
+    "category": "clothing",
+    "title": "Baby Clothing and Diapers",
+    "description": "In need of baby clothing and diapers for newborn. Facing financial hardship.",
+    "bg_color": "#F08080",
+    "money": 80,
+    "text_bg": "#4682B4"
+  }
+  
+  ]
+  
